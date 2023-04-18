@@ -1,0 +1,95 @@
+/* section1 responsive */
+#section1 {
+  height: 48rem;
+}
+#section1 .img5 {
+  height: 74vh;
+}
+#section1 .parent {
+  left: 1%;
+  bottom: 5rem;
+  width: 75rem;
+}
+#section1 .parent .grid {
+  width: 35rem;
+}
+#section1 .img5 {
+  height: 69vh;
+}
+.heading {
+  margin-top: 9rem;
+}
+
+
+/* section3 design */
+.div1-section3 {
+  left: 8rem;
+}
+
+.div2-section3 {
+  left: 39rem;
+}
+
+/* section6 responsive */
+#section6 {
+  height: 65rem;
+}
+
+#section6 .div1-section6 {
+  top: 36rem;
+  left: 6rem;
+}
+#section6 .div2-section6 {
+  top: 24rem;
+  left: 19rem;
+}
+#section6 .div3-section6 {
+  right: 7rem;
+}
+
+#section6 .circle {
+  top: 9rem;
+  right: 3rem;
+}
+#section6 .div2-section6 {
+  top: 24rem;
+  left: 27rem;
+}
+
+/* section7 responsive */
+#section7 {
+  height: 50rem;
+}
+#section7 .div-section7 .gridbox .child-grid-box {
+  font-size: 1.5rem;
+}
+#section7 .div-section7 {
+  width: 69rem;
+  height: 27rem;
+}
+/* section8 responsive */
+#section8 {
+  height: 9rem;
+}
+#section8 .section8-div {
+  top: 2rem;
+}
+#section8 .section8-div {
+  left: 4rem;
+}
+
+/* section9 design */
+#section9 {
+  height: 43rem;
+}
+#section9 .div-section9 {
+  margin-top: 9rem;
+}
+
+/* section10 design */
+#section10 {
+  height: 14rem;
+}
+#section10 p {
+  padding: 3rem 24rem;
+}

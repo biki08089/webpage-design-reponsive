@@ -1,0 +1,255 @@
+
+/* nav responsive */
+.img3 {
+  margin-left: 2rem;
+}
+.img4 {
+  right: 2rem;
+}
+
+
+/* section1 responsive */
+#section1 {
+  height: 80rem;
+  background-position-x: -36rem;
+}
+.heading {
+  font-size: 3.3rem;
+  margin-top: 6rem
+}
+#section1 .parent .grid {
+  grid-template-columns: 1fr;
+  width: 20rem;
+  
+}
+.grid .box {
+  width: 20rem;
+  height: 11rem;
+}
+.grid .box .childbox{
+  top: 1rem;
+}
+#section1 .parent .child {
+  width: 20rem;
+}
+
+#section1 .parent {
+  bottom: 45rem;
+  width: 17rem;
+  margin: 0 auto;
+}
+
+/* section2 responsive */
+#section2 {
+  height: 69rem;
+}
+
+#section2 .section2div {
+  grid-template-columns: 1fr;
+  width: 19rem;
+}
+
+#section2 .section2heading {
+  font-size: 2.1rem;
+  padding-top: 5rem;
+}
+
+#section2 .section2para {
+  font-size: 0.8rem;
+}
+
+/* section3 responsive */
+#section3 {
+  height: 58rem;
+}
+.div1-section3 {
+  left: 0.8rem;
+  height: 28rem;
+  width: 21rem;
+  padding-left: 1rem;
+}
+
+.div1-section3 h1 {
+  padding-right: 0rem;
+  margin-top: -3rem;
+  font-size: 1.5rem;
+}
+.div1-section3 .section3-para {
+  padding-right: 1rem;
+  font-size: 1.2rem;
+}
+
+.div2-section3 {
+  width: 17rem;
+  height: 24rem;
+  left: 4rem;
+  top: 29rem;
+}
+/* section4 responsive */
+#section4 {
+  height: 67rem;
+  flex-direction: column;
+  padding-bottom: 1rem;
+}
+#section4 .div1-section4 {
+  width: 21rem;
+  margin: 0 auto;
+}
+#section4 .div1-section4 .child {
+  width: 17rem;
+  height: 17rem;
+}
+
+#section4 .div1-section4 .image-section4 {
+  left: 3rem;
+  top: 2rem;
+  width: 15rem;
+  height: 25rem;
+}
+#section4 .div2-section4 {
+  margin: 0 auto;
+  width: 20rem;
+}
+
+/* section5 responsive */
+#section5 .div-section5 {
+  width: 18rem;
+  flex-direction: column;
+  height: 21rem;
+}
+
+/* section5 responsive */
+#section5 .div-section5 .circle {
+  width: 5.5rem;
+  height: 5.7rem;
+  margin-top: 1rem;
+}
+
+#section5 .div-section5 .text {
+  width: 11rem;
+  padding-top: 1rem;
+}
+.text .head {
+  font-size: 1.2rem;
+}
+.text .paragraph {
+  font-size: 0.8rem;
+}
+.div-section5 button {
+  width: 10rem;
+  height: 3.5rem;
+  font-size: 15px;
+  margin-top: 1rem;
+}
+
+/* section6 responsive */
+#section6 {
+  height: 81rem;
+}
+#section6 .div1-section6 {
+  top: 58rem;
+  left: 1rem;
+  width: 15rem;
+  height: 15rem;
+  background-size: 15rem 15rem;
+}
+#section6 .div2-section6 {
+  top: 43rem;
+  left: 2rem;
+  height: 438px;
+  width: 311px;
+  background-size: 466px 443px;
+  background-position-x: -57px;
+}
+#section6 .div3-section6 {
+  right: 2.4rem;
+  top: 10rem;
+  width: 18rem;
+  height: 30rem;
+}
+#section6 .circle {
+  right: 0.9rem;
+  width: 11rem;
+  height: 11rem;
+}
+
+/* section7 responsive */
+#section7 {
+  height: 100rem;
+}
+
+#section7 .div-section7 {
+  width: 19rem;
+  grid-template-columns: 1fr;
+}
+#section7 .section7-heading {
+    font-size: 2rem;
+}
+
+#section7 .section7-paragraph{
+    font-size: 1.2rem;
+}
+
+/* #section8 responsive */
+#section8 .section8-div {
+  width: 17rem;
+  grid-template-columns: 1fr;
+}
+
+/* section9 responsive */
+#section9 {
+  height: 110rem;
+}
+#section9 .div-section9 {
+  padding-top: 26rem;
+  width: 22rem;
+}
+
+#section9 .div-section9 .divflex {
+  width: 22rem;
+padding: 0 2.44rem;
+}
+
+#section9 .div-section9 .divflex h1{
+  font-size: 2rem;
+}
+#section9 .div-section9 .divflex .para1-section9 {
+  font-size: 1rem;
+}
+#section9 .div-section9 .divflex .para2-section9{
+  font-size: 0.8rem;
+}
+#section9 .div-section9 .divflex .social{
+  width: 2rem;
+  height: 2rem;
+}
+
+.div-section9 .divflex form .div-form {
+  display: flex;
+  flex-direction: column;
+}
+.div-section9 .divflex form .div-form2 {
+  padding-left: 0rem;
+}
+.div-section9 .divflex form .div-form .child-div-form {
+  margin: 1rem 0;
+}
+
+.child-div-form input {
+  width: 17rem;
+}
+
+.div-section9 .divflex form .div-form2 textarea {
+  width: 17rem;
+}
+.div-section9 .divflex form button {
+  width: 14.3rem;
+}
+/* section10 responsive */
+#section10 {
+  height: 13rem;
+}
+#section10 p {
+  padding: 3rem 1rem;
+  font-size: 12px;
+}

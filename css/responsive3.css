@@ -1,0 +1,96 @@
+#section1 {
+    height: 59rem;
+}
+
+#section1 .parent {
+  flex-direction: column;
+  width: 39rem;
+}
+
+.heading {
+    margin-top: -10rem;
+    font-size: 5rem;
+}
+
+#section1 .img5 {
+  height: 72vh;
+}
+.grid .box {
+  width: 17rem;
+}
+
+#section1 .parent .child {
+  padding-bottom: 1rem;
+}
+
+/* section2 responsive */
+#section2 .section2div {
+    width: 43rem;
+}
+#section2 .section2heading{
+    font-size: 2.5rem;
+}
+
+/* section3 responsive */
+#section3 {
+    height: 75rem;
+}
+
+.div1-section3 {
+    left: 6rem;
+    width: 33rem;
+}
+
+.div2-section3 {
+    left: 17rem;
+    top: 37rem;
+}
+
+/* section4 responsive */
+#section4 .div1-section4 .image-section4{
+    left: 2.6rem;
+}
+
+.div2-section4 h1 {
+    font-size: 2rem;
+}
+
+/* section5 responsive */
+#section5 .div-section5 {
+    width: 70vw;
+}
+
+#section5 .div-section5 .text {
+    width: 22rem;
+}
+
+.text .head {
+    font-size: 1.4rem;
+}
+
+.text .paragraph {
+    font-size: 1rem;
+}
+
+#section6 .div2-section6{
+    left: 11rem;
+}
+
+/* section7 responsive */
+#section7 {
+    height: 76rem;
+}
+#section7 .div-section7 {
+    width: 40rem;
+}
+
+/* section8 reponsive */
+
+#section8 .section8-div {
+    width: 39rem;
+}
+
+/* section10 responsive */
+#section10 p {
+    padding: 3rem 4rem;
+}
